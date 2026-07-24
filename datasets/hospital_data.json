@@ -1,0 +1,11 @@
+{
+    "table": "age\ttime_in_hospital\tn_lab_procedures\tn_procedures\tn_medications\tn_outpatient\tn_inpatient\tn_emergency\tmedical_specialty\tdiag_1\tdiag_2\tdiag_3\tglucose_test\tA1Ctest\tchange\tdiabetes_med\treadmitted\n[70-80)\t8\t72\t1\t18\t2\t0\t0\tMissing\tCirculatory\tRespiratory\tOther\tno\tno\tno\tyes\tno\n[70-80)\t3\t34\t2\t13\t0\t0\t0\tOther\tOther\tOther\tOther\tno\tno\tno\tyes\tno\n[50-60)\t5\t45\t0\t18\t0\t0\t0\tMissing\tCirculatory\tCirculatory\tCirculatory\tno\tno\tyes\tyes\tyes\n[70-80)\t2\t36\t0\t12\t1\t0\t0\tMissing\tCirculatory\tOther\tDiabetes\tno\tno\tyes\tyes\tyes\n[60-70)\t1\t42\t0\t7\t0\t0\t0\tInternalMedicine\tOther\tCirculatory\tRespiratory\tno\tno\tno\tyes\tno\n[40-50)\t2\t51\t0\t10\t0\t0\t0\tMissing\tOther\tOther\tOther\tno\tno\tno\tno\tyes\n",
+    "table_page_title": "Hospital Readmission Sample Data",
+    "table_section_title": "Hospital Readmission Data",
+    "highlighted_cells": [
+        [
+            4,
+            2
+        ]
+    ]
+}

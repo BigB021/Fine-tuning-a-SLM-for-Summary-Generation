@@ -1,0 +1,12 @@
+{
+    "table": "Segment\tCountry\t Product \t Discount Band \t Units Sold \t Manufacturing Price \t Sale Price \t Gross Sales \t Discounts \t  Sales \t COGS \t Profit \tDate\tMonth Number\t Month Name \tYear\nGovernment\tCanada\t Carretera \t None \t $1,618.50 \t $3.00 \t $20.00 \t $32,370.00 \t $-   \t $32,370.00 \t $16,185.00 \t $16,185.00 \t01/01/2014\t1\t January \t2014\nGovernment\tGermany\t Carretera \t None \t $1,321.00 \t $3.00 \t $20.00 \t $26,420.00 \t $-   \t $26,420.00 \t $13,210.00 \t $13,210.00 \t01/01/2014\t1\t January \t2014\nMidmarket\tFrance\t Carretera \t None \t $2,178.00 \t $3.00 \t $15.00 \t $32,670.00 \t $-   \t $32,670.00 \t $21,780.00 \t $10,890.00 \t01/06/2014\t6\t June \t2014\nMidmarket\tGermany\t Carretera \t None \t $888.00 \t $3.00 \t $15.00 \t $13,320.00 \t $-   \t $13,320.00 \t $8,880.00 \t $4,440.00 \t01/06/2014\t6\t June \t2014\nMidmarket\tMexico\t Carretera \t None \t $2,470.00 \t $3.00 \t $15.00 \t $37,050.00 \t $-   \t $37,050.00 \t $24,700.00 \t $12,350.00 \t01/06/2014\t6\t June \t2014\nGovernment\tGermany\t Carretera \t None \t $1,513.00 \t $3.00 \t $350.00 \t $5,29,550.00 \t $-   \t $5,29,550.00 \t $3,93,380.00 \t $1,36,170.00 \t01/12/2014\t12\t December \t2014\n",
+    "table_page_title": "Financial Sample Data",
+    "table_section_title": "Finance Data",
+    "table_section_text": "This is a dataset that requires a lot of preprocessing with amazing EDA insights for a company. A dataset consisting of sales and profit data sorted by market segment and country/region.",
+    "highlighted_cells": [
+        [
+            3,
+            6
+        ]
+    ]
+}

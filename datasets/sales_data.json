@@ -1,0 +1,12 @@
+{
+    "table": "Product_ID\tSale_Date\tSales_Rep\tRegion\tSales_Amount\tQuantity_Sold\tProduct_Category\tUnit_Cost\tUnit_Price\tCustomer_Type\tDiscount\tPayment_Method\tSales_Channel\tRegion_and_Sales_Rep\n1052\t2023-02-03\tBob\tNorth\t5053.97\t18\tFurniture\t152.75\t267.22\tReturning\t0.09\tCash\tOnline\tNorth-Bob\n1093\t2023-04-21\tBob\tWest\t4384.02\t17\tFurniture\t3816.39\t4209.44\tReturning\t0.11\tCash\tRetail\tWest-Bob\n1015\t2023-09-21\tDavid\tSouth\t4631.23\t30\tFood\t261.56\t371.4\tReturning\t0.2\tBank Transfer\tRetail\tSouth-David\n1072\t2023-08-24\tBob\tSouth\t2167.94\t39\tClothing\t4330.03\t4467.75\tNew\t0.02\tCredit Card\tRetail\tSouth-Bob\n1061\t2023-03-24\tCharlie\tEast\t3750.2\t13\tElectronics\t637.37\t692.71\tNew\t0.08\tCredit Card\tOnline\tEast-Charlie\n1021\t2023-02-11\tCharlie\tWest\t3761.15\t32\tFood\t900.79\t1106.51\tNew\t0.21\tCash\tOnline\tWest-Charlie\n",
+    "table_page_title": "Sales Sample Data",
+    "table_section_title": "Sales Data",
+    "table_section_text": "This dataset represents synthetic sales data generated for practice purposes only. It is not real-time or based on actual business operations, and should be used solely for educational or testing purposes. The dataset contains information that simulates sales transactions across different products, regions, and customers. Each row represents an individual sale event with various details associated with it.",
+    "highlighted_cells": [
+        [
+            2,
+            3
+        ]
+    ]
+}
